@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plumberinburbank.github.io/plumberinburbank/sitemap.xml
